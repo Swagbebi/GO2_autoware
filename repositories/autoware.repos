@@ -140,19 +140,19 @@ repositories:
     url: https://github.com/autowarefoundation/ros2_socketcan
     version: e39a814180b03f00a5692b6951a5d4e9f0463486
 
-#Sensor kit 
+# Sensor kit
 sensor_kit/Go2_sensor_kit_launch:
   type: git
   url: https://github.com/Swagbebi/Go2_sensor_kit_launch.git
   version: main
 
-#Vehicle launch 
+# Vehicle launch
 vehicle/Go2_vehicle_launch:
   type: git
   url: https://github.com/Swagbebi/Go2_vehicle_launch.git
   version: main
 
-#Individual Params
+# Individual Params
 param/Go2_autoware_individual_params:
   type: git
   url: https://github.com/Swagbebi/Go2_autoware_individual_params.git
