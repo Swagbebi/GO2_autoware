@@ -158,8 +158,3 @@ repositories:
     url: https://github.com/Swagbebi/Go2_autoware_individual_params.git
     version: main
 
-#Autoware universe
-  /universe/autoware_universe:
-    type: git
-    url: https://github.com/autowarefoundation/autoware_universe.git
-    version: main
